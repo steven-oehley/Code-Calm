@@ -196,7 +196,7 @@ aside {
 }
 
 /* ** MEDIA QUERIES ** */
-@media (min-width: 975px) {
+@media (max-width: 975px) {
   .nav-container {
     flex-direction: column;
     text-align: center;
